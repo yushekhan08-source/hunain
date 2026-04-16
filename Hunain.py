@@ -6,7 +6,7 @@ st.title("🎨 Professional AI Image Generator")
 st.write("Powered by the Hugging Face Inference API")
 
 # --- PASTE YOUR SECRET VIP PASS HERE ---
-API_KEY = "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"
+API_KEY = "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"
 # -------------------------------------
 
 API_URL = "https://router.huggingface.co/hf-inference/models/stabilityai/stable-diffusion-xl-base-1.0"
